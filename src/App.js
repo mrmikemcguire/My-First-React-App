@@ -15,7 +15,9 @@ class App extends Component {
         </p>
         <p>
           Give me that high-paying developer job right now...
-          Do these changes commit?
+        </p>
+        <p>
+          I'm adding this line to the tester branch only.
         </p>
       </div>
     );
