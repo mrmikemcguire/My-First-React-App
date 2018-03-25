@@ -18,6 +18,7 @@ class App extends Component {
         </p>
         <p>
           I'm adding this line to the tester branch only.
+          Now I'm adding a second line.
         </p>
       </div>
     );
