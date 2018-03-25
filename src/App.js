@@ -17,8 +17,7 @@ class App extends Component {
           Give me that high-paying developer job right now...
         </p>
         <p>
-          I'm adding this line to the tester branch only.
-          Now I'm adding a second line.
+          These are changes made on my MacBook.
         </p>
       </div>
     );
