@@ -18,6 +18,7 @@ class App extends Component {
         </p>
         <p>
           These are changes made on my MacBook.
+          Now I'm adding the VSC change to test VSC integration.
         </p>
       </div>
     );
